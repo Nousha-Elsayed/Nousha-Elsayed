@@ -16,7 +16,7 @@
 
 ## 💬 Ask Me About
 
-**Robotics • ROS2 • UAV Systems • Computer Vision • System Integration**
+**Robotics • ROS2 • Gazebo • UAV Systems • Computer Vision • System Integration**
 
 ---
 
