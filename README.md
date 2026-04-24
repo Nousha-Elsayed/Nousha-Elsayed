@@ -86,8 +86,3 @@ A system that analyzes scenes, detects motion, and provides safe navigation guid
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 </p>
 
----
-
-## ⚡ Fun Fact
-
-🤖 I love building systems that can **see, think, and navigate autonomously**
