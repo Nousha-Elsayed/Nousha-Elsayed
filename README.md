@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I’m Menna Ibrahim 👋
+Computer and Communication Engineering student from Egypt
 
-<!--
-**Nousha-Elsayed/Nousha-Elsayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about Robotics, Computer Vision, and Autonomous Systems 🚀
 
-Here are some ideas to get you started:
+🤖 Working on Distributed Visual Navigation Systems using ROS2
+✈️ Experienced with UAV simulation, control, and system integration (ArduPilot, Gazebo)
+🛠️ Interested in perception, motion estimation, and real-time robotics systems
+💻 Exploring backend systems and building robust, scalable applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about:
+Robotics, ROS2, UAV Systems, Computer Vision, and System Integration
+
+🧠 Programming Languages
+Python, C++, C
+
+⚙️ Tools & Technologies
+ROS2, OpenCV, Gazebo, ArduPilot, Linux, Git
+
+🤖 Robotics & AI
+Computer Vision, Visual Odometry, Object Detection (YOLO), Autonomous Navigation
+
+💡 Currently building:
+A Distributed Visual Navigation Hint System that analyzes scenes, detects motion, and provides safe navigation guidance
+
+💬 Connect with me:
+LinkedIn | Gmail
