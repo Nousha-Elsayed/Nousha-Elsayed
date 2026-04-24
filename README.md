@@ -65,11 +65,3 @@
   <img src="https://img.shields.io/badge/YOLO-FF0000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Autonomous%20Navigation-00C853?style=for-the-badge"/>
 </p>
-
----
-
-## 💡 Currently Working On
-
-🧭 **Distributed Visual Navigation Hint System**
-A system that analyzes scenes, detects motion, and provides safe navigation guidance using **ROS2**
-
