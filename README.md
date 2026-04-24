@@ -1,8 +1,4 @@
-<!-- Animated Typing Header -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Menna+Ibrahim+👋;Robotics+%7C+Computer+Vision+%7C+Autonomous+Systems;ROS2+Developer+%7C+UAV+Engineer;Building+Intelligent+Navigation+Systems+🚀" alt="Typing SVG" />
-</p>
+***Hi, it's Menna Ibrahim***
 
 ---
 
