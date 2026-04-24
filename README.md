@@ -1,9 +1,8 @@
 Hi, I’m Menna Ibrahim 👋
-Computer and Communication Engineering student from Egypt
-
+Electrical Power and Machines Engineer
 Passionate about Robotics, Computer Vision, and Autonomous Systems 🚀
 
-🤖 Working on Distributed Visual Navigation Systems using ROS2
+🤖 Working on multiply projects using ROS2
 ✈️ Experienced with UAV simulation, control, and system integration (ArduPilot, Gazebo)
 🛠️ Interested in perception, motion estimation, and real-time robotics systems
 💻 Exploring backend systems and building robust, scalable applications
@@ -12,7 +11,7 @@ Passionate about Robotics, Computer Vision, and Autonomous Systems 🚀
 Robotics, ROS2, UAV Systems, Computer Vision, and System Integration
 
 🧠 Programming Languages
-Python, C++, C
+Python, C++, C, XML
 
 ⚙️ Tools & Technologies
 ROS2, OpenCV, Gazebo, ArduPilot, Linux, Git
