@@ -1,22 +1,20 @@
-# Hi, it's Menna Ibrahim
+# Hi, it's Menna Ibrahim 👋
 
+## 👩‍💻 About Me
 
-
-# 👩‍💻 About Me
-
-🎓 **Electrical Power and Machines Engineer**
+🎓 **Electrical Power and Machines Engineer**  
 🚀 Passionate about **Robotics, Computer Vision, and Autonomous Systems**
 
-* 🤖 Working on multiple robotics projects using **ROS2**
-* ✈️ Experienced in **UAV simulation, control, and system integration** *(ArduPilot, Gazebo)*
-* 🛠️ Interested in **perception, motion estimation, and real-time robotics systems**
-* 💻 Exploring **backend development** and scalable systems
+- 🤖 Working on robotics systems using **ROS2**
+- ✈️ Experienced in **UAV simulation, control, and system integration** *(ArduPilot, Gazebo)*
+- 🛠️ Focused on **perception, motion estimation, and real-time systems**
+- 💻 Exploring **backend development** and scalable architectures
 
 ---
 
 ## 💬 Ask Me About
 
-**Robotics • stereo vision • ROS2 • Gazebo • UAV Systems • Computer Vision • System Integration**
+**Robotics • Stereo Vision • ROS2 • Gazebo • UAV Systems • Computer Vision • System Integration**
 
 ---
 
@@ -51,6 +49,9 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ArduPilot-6E2CA5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
