@@ -91,6 +91,6 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Nousha-Elsayed&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nousha-Elsayed&layout=compact&theme=tokyonight"/>
 </p>
