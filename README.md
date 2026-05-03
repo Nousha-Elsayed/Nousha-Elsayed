@@ -9,7 +9,6 @@
 - ✈️ Experienced in **UAV simulation, control, navigation, and system integration**
 - 👁️ Working on **Stereo Vision, Depth Estimation, Visual Odometry, and Perception**
 - 🛠️ Interested in **Embedded Systems, Real-Time Applications, and Automation**
-- 💻 Exploring **Backend Development, APIs, and Scalable Architectures**
 - 📚 Always learning new technologies in **AI, Robotics, and Software Engineering**
 
 ---
