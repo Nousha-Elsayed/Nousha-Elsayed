@@ -52,7 +52,6 @@
   <img src="https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ArduPilot-6E2CA5?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Simulink-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
