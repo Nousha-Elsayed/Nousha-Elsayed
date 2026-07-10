@@ -3,7 +3,7 @@
 ## 👩‍💻 About Me
 
 🎓 **Electrical Power and Machines Engineer**  
-🚀 Passionate about **Robotics, Computer Vision, Autonomous Systems, and Intelligent Control**
+🚀 Passionate about **AI, Optimization, Robotics, Computer Vision, Autonomous Systems, and Intelligent Control**
 
 - 🤖 Building robotics systems using **ROS2**
 - ✈️ Experienced in **UAV simulation, control, navigation, and system integration**
