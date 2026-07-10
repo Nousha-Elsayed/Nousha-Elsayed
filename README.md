@@ -15,7 +15,7 @@
 
 ## 💬 Ask Me About
 
-**ROS2 • Robotics • UAV Systems • Gazebo • Computer Vision • Stereo Vision • OpenCV • MATLAB • Autonomous Navigation • Linux • Git**
+**Power Systems • Smart grids • ROS2 • Robotics • UAV Systems • Gazebo • Computer Vision • Stereo Vision • OpenCV • MATLAB • Autonomous Navigation • Linux • Git**
 
 ---
 
