@@ -94,7 +94,6 @@ Research project focused on modeling and optimizing Egypt's electricity network 
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Simulink-FF6F00?style=for-the-badge&logo=Mathworks&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
@@ -119,31 +118,8 @@ Research project focused on modeling and optimizing Egypt's electricity network 
 
 ---
 
-## 📖 Currently Learning
-
-- Modern C++ (C++20)
-- Software Architecture & Design Patterns
-- ROS2 with C++
-- Embedded Linux
-- Docker & CI/CD
-- GPU Computing (CUDA)
-- Energy System Optimization
-
----
-
 ## 🎯 Career Goal
 
 To contribute to R&D teams developing intelligent engineering systems through AI, software engineering, robotics, and energy technologies, with a focus on solving real-world industrial challenges.
 
 ---
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nousha-Elsayed&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nousha-Elsayed&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nousha-Elsayed&theme=tokyonight"/>
-</p>
