@@ -6,14 +6,13 @@
 
 🔬 Aspiring **R&D Engineer** passionate about building intelligent engineering systems by combining **Artificial Intelligence, Software Engineering, Robotics, and Energy Digitalization**.
 
-I enjoy designing and developing software for real-world engineering applications, with interests spanning autonomous systems, intelligent power networks, computer vision, and engineering simulation.
+
 
 ---
 
 ## 🚀 Current Interests
 
-I'm currently exploring intelligent engineering systems that integrate **AI, Robotics, and Energy Systems**. My work focuses on autonomous UAVs, computer vision, perception, navigation, smart grids, digitalization, and engineering software for real-world applications.
-
+I'm passionate about developing intelligent engineering solutions that bridge AI, Robotics, and Energy Systems, with interests in autonomous UAVs, computer vision, smart grids, energy optimization, digitalization, and engineering software for real-world applications.
 ---
 
 ## 🚀 Featured Projects
@@ -92,7 +91,6 @@ Research project focused on modeling and optimizing Egypt's electricity network 
   <img src="https://img.shields.io/badge/ArduPilot-6E2CA5?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Simulink-FF6F00?style=for-the-badge&logo=Mathworks&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
