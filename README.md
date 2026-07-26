@@ -13,6 +13,7 @@
 ## 🚀 Current Interests
 
 I'm passionate about developing intelligent engineering solutions that bridge AI, Robotics, and Energy Systems, with interests in autonomous UAVs, computer vision, smart grids, energy optimization, digitalization, and engineering software for real-world applications.
+
 ---
 
 ## 🚀 Featured Projects
