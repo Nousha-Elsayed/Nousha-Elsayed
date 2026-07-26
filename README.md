@@ -16,26 +16,11 @@ I'm passionate about developing intelligent engineering solutions that bridge AI
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Project Highlights
 
-### ✈️ UAV Perception & Navigation System
-ROS2-based autonomous UAV framework integrating perception, object detection, geolocation, and autonomous navigation using Gazebo and ArduPilot SITL.
-
-**Tech Stack:** ROS2 • OpenCV • Python • Gazebo • ArduPilot • Ubuntu
-
----
-
-### ⚡ AI-Augmented Power System Protection
-Developed an intelligent overcurrent protection system combining IEC relay logic with machine learning for enhanced fault detection and decision support.
-
-**Tech Stack:** MATLAB/Simulink • Python • Machine Learning
-
----
-
-### 🌍 Egypt Power System Modeling & Optimization
-Research project focused on modeling and optimizing Egypt's electricity network using PyPSA to evaluate renewable integration and future energy scenarios.
-
-**Tech Stack:** Python • PyPSA • Optimization
+* ✈️ **UAV Perception & Navigation** — ROS2-based autonomous UAV framework for perception, object detection, and autonomous navigation.
+* ⚡ **AI-Augmented Power Protection** — Intelligent overcurrent protection combining IEC relay logic with machine learning.
+* 🌍 **Egypt Power System Modeling** — PyPSA-based research on electricity network modeling, optimization, and renewable energy integration.
 
 ---
 
