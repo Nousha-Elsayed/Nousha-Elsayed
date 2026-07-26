@@ -18,9 +18,9 @@ I'm passionate about developing intelligent engineering solutions that bridge AI
 
 ## 🚀 Project Highlights
 
-* ✈️ **UAV Perception & Navigation** — ROS2-based autonomous UAV framework for perception, object detection, and autonomous navigation.
-* ⚡ **AI-Augmented Power Protection** — Intelligent overcurrent protection combining IEC relay logic with machine learning.
-* 🌍 **Egypt Power System Modeling** — PyPSA-based research on electricity network modeling, optimization, and renewable energy integration.
+* ✈️ **UAV Perception & Navigation** - ROS2-based autonomous UAV framework for perception, object detection, and autonomous navigation.
+* ⚡ **AI-Augmented Power Protection** - Intelligent overcurrent protection combining IEC relay logic with machine learning.
+* 🌍 **Egypt Power System Modeling** - PyPSA-based research on electricity network modeling, optimization, and renewable energy integration.
 
 ---
 
