@@ -3,10 +3,6 @@
 <h3 align="center">⚡ Electrical Power & Machines Engineering Student | Intelligent Engineering Systems 🤖</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00B4D8&center=true&vCenter=true&width=700&lines=Power+Systems+%7C+Protection+%7C+Automation;Digital+Substations+%26+IEC+61850;AI+for+Power+Systems;Robotics+%7C+Computer+Vision+%7C+Autonomous+Systems" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/menna-ibrahim-3b37693a8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Nousha-Elsayed"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
