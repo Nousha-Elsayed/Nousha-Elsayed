@@ -104,15 +104,6 @@ Working toward **digital power systems** and **intelligent engineering solutions
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nousha-Elsayed&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nousha-Elsayed&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Connect
 
 <p align="center">
