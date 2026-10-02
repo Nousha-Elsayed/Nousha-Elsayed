@@ -1,65 +1,104 @@
 # Hi, I'm Menna Ibrahim 👋
 
-### Electrical Power & Machines Engineering Student | Intelligent Engineering Systems
+## 👩‍💻 About Me
 
-Passionate about building **intelligent engineering systems** by combining **power systems, protection, automation, AI, and software** to solve real-world engineering problems.
+🎓 **Electrical Power & Machines Engineering Student**
 
----
-
-## 🔬 Featured Projects
-
-### 🤖 ROS2 Stereo 3D Perception
-
-ROS 2-based stereo vision system for **real-time depth perception, object detection, and distance estimation** for humanoid football robots.
-
-`ROS 2` `Python` `OpenCV` `YOLO` `Stereo Vision`
-
-### ⚡ AI-Augmented Power Protection
-
-Hybrid **IEC-IDMT relay protection** enhanced with machine learning for **fault detection and classification** in an 11 kV radial distribution system.
-
-`MATLAB` `Simulink` `Power Protection` `Machine Learning`
-
-### 🌍 Power System Modeling & Optimization
-
-Research on **power system modeling, capacity expansion, optimization, and renewable energy integration** using PyPSA.
-
-`Python` `PyPSA` `Power Systems` `Optimization`
+🔬 Aspiring **R&D Engineer** passionate about integrating **AI, software, robotics, and energy technologies** to build intelligent engineering systems.
 
 ---
 
-## ⚡ Areas of Interest
+## 🚀 Current Interests
 
-`Power System Protection` · `Relay Coordination` · `IEC 61850` · `SAS`
-`Digital Substations` · `Smart Grids` · `Power System Modeling`
-`AI for Power Systems` · `Automation & Control`
-`Computer Vision` · `Autonomous Systems` · `Engineering Software`
+I'm interested in developing intelligent solutions that bridge **power systems, protection, automation, AI, and robotics**, with a focus on applying software and data-driven methods to real-world engineering challenges.
 
 ---
 
-## 🛠️ Technologies
+## 🚀 Project Highlights
 
-**Programming**
-`Python` `C` `C++` `MATLAB` `XML`
-
-**Power & Energy**
-`MATLAB` `Simulink` `ETAP` `PyPSA` `IEC 61850` `GOOSE` `MMS` `SCL` `IEDScout` `Easergy`
-
-**AI & Robotics**
-`ROS 2` `Gazebo` `ArduPilot` `OpenCV` `YOLO` `Computer Vision`
-
-**Engineering & Development**
-`Git` `GitHub` `Linux` `Ubuntu` `VS Code`
+* 🤖 **ROS2 Stereo 3D Perception** — Stereo vision system for **depth perception, object detection, and distance estimation** for humanoid football robots.
+* ⚡ **AI-Augmented Power Protection** — Hybrid **IEC-IDMT relay protection** enhanced with machine learning for **fault detection and classification** in an 11 kV radial system.
+* 🌍 **Power System Modeling & Optimization** — PyPSA-based research on **power system modeling, optimization, and renewable energy integration**.
 
 ---
 
-## 🎯 Direction
+## 🔬 Research Interests
 
-Working toward **digital power systems and intelligent engineering solutions**, where **protection, automation, communication, AI, and software** come together to improve the **reliability, efficiency, and resilience** of real-world systems.
+* Power System Protection & Relay Coordination
+* IEC 61850 & Substation Automation
+* Smart Grids & Energy Digitalization
+* AI for Power Systems
+* Computer Vision & Perception
+* Autonomous Robotics & UAV Systems
+* Power System Modeling & Optimization
+* Intelligent Control Systems
 
 ---
 
-## 🌐 Connect
+## 💬 Ask Me About
 
-[LinkedIn](https://www.linkedin.com/in/menna-ibrahim-3b37693a8/) · [GitHub](https://github.com/Nousha-Elsayed)
+**AI • Robotics • ROS2 • UAV Systems • Computer Vision • IEC 61850 • SAS • Power Systems • Protection • Smart Grids • MATLAB • PyPSA • OpenCV • Linux • Git**
 
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/menna-ibrahim-3b37693a8/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Programming Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=Mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white"/>
+</p>
+
+---
+
+## ⚙️ Tools & Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ArduPilot-6E2CA5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Simulink-FF6F00?style=for-the-badge&logo=Mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+## 🤖 AI, Robotics & Energy
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Computer_Vision-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Perception-43A047?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stereo_Vision-6E2CA5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Object_Detection-43A047?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Autonomous_Systems-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/YOLO-FF0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Smart_Grids-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Energy_Optimization-795548?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Digital_Twins-1565C0?style=for-the-badge"/>
+</p>
+
+---
+
+## 🎯 Career Goal
+
+To contribute to **R&D teams developing intelligent engineering systems**, combining **power engineering, AI, software, and automation** to solve real-world industrial challenges.
